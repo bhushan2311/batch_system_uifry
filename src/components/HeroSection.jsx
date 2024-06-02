@@ -1,6 +1,6 @@
 // src/components/Header.js
 import React from 'react';
-
+import Image from 'next/image';
 function HeroSection() {
   return (
     <div className="relative flex flex-col items-center w-full">

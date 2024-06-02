@@ -6,7 +6,7 @@ function Navbar() {
         <div className='navbar flex justify-center py-10 bg-transparent'>
             <div className='innav flex items-center w-full max-w-7xl px-4 mx-auto'>
                 <div className='brandlogo flex-shrink-0 w-24'>
-                    <Image src='/Assets/Images/uilogo.png' alt='UI Logo' width={100} height={100} />
+                    <img src='/Assets/Images/uilogo.png' alt='UI Logo' width={100} height={100} />
                 </div>
                 <div className='navtabs flex-grow'>
                     <div className='innavtabs flex justify-center gap-6 text-[20px] font-bold leading-[26px]'>
