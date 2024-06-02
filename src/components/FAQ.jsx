@@ -22,27 +22,27 @@ function FAQ() {
         {/* <div className='flex flex-row gap-8'>
                     <div className=' text-white rounded-lg p-6'>
                         <div className='text-2xl font-semibold mb-4'>The Best Financial Accounting App Ever!</div>
-                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.'</div>
+                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.&apos;</div>
                     </div>
                     <div className='bg-white text-gray-500 rounded-lg p-6'>
                         <div className='text-2xl font-semibold mb-4'>The Best Financial Accounting App Ever!</div>
-                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.'</div>
+                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.&apos;</div>
                     </div>
                     <div className='bg-white text-gray-500 rounded-lg p-6'>
                         <div className='text-2xl font-semibold mb-4'>The Best Financial Accounting App Ever!</div>
-                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.'</div>
+                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.&apos;</div>
                     </div>
                     <div className=' text-white rounded-lg p-6'>
                         <div className='text-2xl font-semibold mb-4'>The Best Financial Accounting App Ever!</div>
-                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.'</div>
+                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.&apos;</div>
                     </div>
                     <div className='bg-white text-gray-500 rounded-lg p-6'>
                         <div className='text-2xl font-semibold mb-4'>The Best Financial Accounting App Ever!</div>
-                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.'</div>
+                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.&apos;</div>
                     </div>
                     <div className=' text-white rounded-lg p-6'>
                         <div className='text-2xl font-semibold mb-4'>The Best Financial Accounting App Ever!</div>
-                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.'</div>
+                        <div className='text-base'>&quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris.&apos;</div>
                     </div>
                 </div> */}
         <div className='flex flex-col md:flex-row gap-8' style={{width: '79rem',marginLeft: '-12rem'}}>
@@ -53,7 +53,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
                 &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
             <div className='bg-white text-gray-500 rounded-lg p-6 mt-8 md:mt-0'>
@@ -62,7 +62,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
                 &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
           </div>
@@ -73,7 +73,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
                 &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
             <div className=' text-white rounded-lg p-6 mt-8 md:mt-0' style={{ backgroundColor: '#f55' }}>
@@ -82,7 +82,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
                 &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
                 &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
             <div className='bg-white text-gray-500 rounded-lg p-6 mt-8 md:mt-0'>
@@ -104,7 +104,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
                 &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
           </div>
@@ -115,7 +115,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
               &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
             <div className=' text-white rounded-lg p-6 mt-8 md:mt-0' style={{ backgroundColor: '#f55' }}>
@@ -124,7 +124,7 @@ function FAQ() {
               </div>
               <div className='text-base'>
               &quot;Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan,
-                Ultricies. In Ultrices Malesuada Elit Mauris.'
+                Ultricies. In Ultrices Malesuada Elit Mauris.&apos;
               </div>
             </div>
           </div>
