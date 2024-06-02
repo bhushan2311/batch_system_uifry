@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    font-family: "Clash Display";
+  }
+  
+  .App {
+    background-color: #fff; /* Set default background color to white */
+    color: #000; /* Set default text color to black */
+    transition: background-color 0.8s, color 0.8s; /* Transition both background color and text color */
+  }
+  
+  .night-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  #nightmode-btn {
+    color: #fff;
+    background-color: #000;
+    padding: 4px 10px;
+    position: absolute;
+    border: none;
+    border-radius: 4px;
+    margin: 8px;
+    cursor: pointer;
+  }
+  
+  .nightmode {
+    font-family: "Clash Display Semibold";
+  }
+  
+  @font-face {
+    font-family: "Clash Display";
+    src: url("/Assets/Fonts/ClashDisplayRegular.otf");
+  }
+  
+  @font-face {
+    font-family: "Clash Display Bold";
+    src: url("/Assets/Fonts/ClashDisplayBold.otf");
+  }
+  
+  @font-face {
+    font-family: "Clash Display Semibold";
+    src: url("/Assets/Fonts/ClashDisplaySemibold.otf");
+  }
+  
+  body {
+    overflow: auto;
+  }
+  
